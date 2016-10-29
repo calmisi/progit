@@ -51,8 +51,14 @@ The generated HTML pages can be hosted on the [GitHub](http://github.com) via [G
     ```
     node lib/build
     ```
+
+6. Add the files that generated just now  
+  
+	```
+	git add --all
+	git commit -m "some sentences"
    
-6. Push to your repository's gh-pages branch.
+7. Push to your repository's gh-pages branch.
 
     ```
     git push origin gh-pages
