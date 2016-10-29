@@ -57,6 +57,7 @@ The generated HTML pages can be hosted on the [GitHub](http://github.com) via [G
 	```
 	git add --all
 	git commit -m "some sentences"
+	```
    
 7. Push to your repository's gh-pages branch.
 
